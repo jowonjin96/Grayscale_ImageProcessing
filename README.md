@@ -1,10 +1,11 @@
 # Grayscale_ImageProcessing 프로젝트
 이미지를 열고, 처리하고, 저장하는 기능 제공
 
-#원본 사진
+# 원본 사진
+
 ![image](https://github.com/user-attachments/assets/f3d00ba9-f5c8-407c-b4fe-62fe2a6eb430)
 
-#1.화소점 처리
+# 1.화소점 처리
   흑백
   
   ![image](https://github.com/user-attachments/assets/135ce2e0-3e0e-45be-ac30-c56776d31a15)
